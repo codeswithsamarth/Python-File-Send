@@ -1,6 +1,0 @@
-09.20 9:47 AM
-Requirements
-flask
-cryptography
-supabase
-gunicorn
